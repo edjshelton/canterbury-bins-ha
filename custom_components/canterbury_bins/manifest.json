@@ -1,0 +1,12 @@
+{
+  "domain": "canterbury_bins",
+  "name": "Canterbury Bins",
+  "documentation": "https://github.com/edjshelton/canterbury-bins-ha",
+  "issue_tracker": "https://github.com/edjshelton/canterbury-bins-ha/issues",
+  "dependencies": [],
+  "codeowners": ["@edjshelton"],
+  "requirements": ["aiohttp>=3.8.0"],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
